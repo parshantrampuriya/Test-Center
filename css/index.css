@@ -1,0 +1,7 @@
+
+# css/index.css
+
+```css
+body{margin:0;font-family:Arial;background:#0f172a;color:#fff;display:flex;justify-content:center;align-items:center;height:100vh}.login-box{background:#111827;padding:30px;border-radius:16px;width:320px}.login-box input,.login-box button{width:100%;padding:12px;margin:8px 0;border-radius:8px;border:none}.login-box button{background:#2563eb;color:#fff}
+```
+
